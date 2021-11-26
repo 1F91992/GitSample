@@ -1,0 +1,4 @@
+I've created a sample text file at local machine.
+And I'll be pushing respositary to host at GitHub.
+
+Thank You
